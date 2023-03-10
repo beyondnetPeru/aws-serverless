@@ -37,6 +37,7 @@
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.53.0",
     "@typescript-eslint/parser": "^5.53.0",
+    "aws-xray-sdk": "^3.4.1",
     "eslint": "^8.34.0",
     "prettier": "^2.8.4"
   }
